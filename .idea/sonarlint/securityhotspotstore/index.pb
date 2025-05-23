@@ -11,3 +11,5 @@ P
  tests/transaction-escrow.test.ts,a/7/a7e9cfe4e6e24616498f39f775404764d2116b18
 Q
 !tests/seller-verification.test.ts,0/5/054fdba6068b86651280a12cd33d2ef64eb47f23
+Q
+!contracts/transaction-escrow.clar,9/8/98db592d34ef6aaf67172d15344b8568d6b06449
